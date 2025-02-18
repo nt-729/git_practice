@@ -7,5 +7,8 @@ gitとgithubの操作を練習するためのリポジトリ
      - git add , git commit , git push 
  - ファイルの削除のコミット
      - git rm
+ - 状態の確認
+     - git status
+    
 
 ### aa
