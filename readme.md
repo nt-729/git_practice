@@ -8,7 +8,8 @@ gitとgithubの操作を練習するためのリポジトリ
  - ファイルの削除のコミット
      - git rm
  - 状態の確認
-     - git status
-    
+     - git status , git log
+ - 差分の確認
+     - git diff
 
 ### aa
