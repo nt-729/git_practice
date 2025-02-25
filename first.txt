@@ -7,3 +7,4 @@ git diff の確認その二
 git commit --amend の確認test
 git mergeの確認用
 confrictさせます
+pullリクエスト
