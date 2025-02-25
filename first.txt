@@ -5,3 +5,4 @@ VSCodeで編集した行です。
 git diff の確認用
 git diff の確認その二
 git commit --amend の確認test
+confrictさせます
